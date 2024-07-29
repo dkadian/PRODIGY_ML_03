@@ -10,7 +10,6 @@ The code provides a basic framework for:
 
 This is a starting point for exploring SVM-based image classification. You can extend it by:
 
-* Implementing more advanced feature extraction techniques (e.g., SIFT, HOG)
 * Tuning SVM hyperparameters for better accuracy
 * Exploring data augmentation techniques
 
